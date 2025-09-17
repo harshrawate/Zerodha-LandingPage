@@ -9,4 +9,4 @@ Call to Action: Includes buttons and links to guide users to sign up or explore 
 Dynamic Components: Interactive and reusable components for scalability and maintainability.
 Tech Stack
 Frontend: React.js, Material-UI, Bootstrap
-Testing: Jest
+Testing: Jest.
